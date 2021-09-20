@@ -50,7 +50,3 @@ gradle-app.setting
 ### OS generated file
 .DS_Store
 .DS_Store?
-
-## Empty package
-.gitkeep
-
