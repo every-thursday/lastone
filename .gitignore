@@ -51,3 +51,6 @@ gradle-app.setting
 .DS_Store
 .DS_Store?
 
+## Empty package
+.gitkeep
+
